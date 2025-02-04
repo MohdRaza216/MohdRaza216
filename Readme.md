@@ -9,19 +9,21 @@ I'm a passionate software developer with a keen interest in web development, mac
 - 🌱 I’m currently learning **MERN Stack**
 - 💬 Ask me about **JavaScript, Python**
 - 📫 How to reach me: **mohdrazamoghul2024@gmail.com**
-- ⚡ Fun fact: **I am good in swimming and can hold my breath in the water for 1 minute**
+- ⚡ **Fun Fact:** I'm a skilled swimmer and can hold my breath underwater for a full minute!
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: JavaScript, Python, C++
+- **Programming Languages**: JavaScript, Python, Java
 - **Web Development**: HTML, CSS, React, Node.js, Django
 - **Databases**: MySQL, MongoDB, PostgreSQL
 - **Version Control**: Git, GitHub
-- **UI Frameworks**: Bootstrap, Tailwind
+- **UI Frameworks**: Bootstrap, Tailwind CSS
 
 ## 📈 GitHub Stats
 
 ![Mohd Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdRaza216&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdRaza216&langs_count=5&theme=dracula)
 
 ## 📫 Connect with Me
 
