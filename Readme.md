@@ -4,24 +4,21 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, machine learning, and open-source contributions. I enjoy learning new technologies and applying them to solve real-world problems.
+I’m a passionate Full Stack Developer with expertise in PHP (CodeIgniter), JavaScript, and modern web technologies. I love building dynamic, user-friendly web applications that solve real-world problems. Currently, I'm honing my skills through practical projects like dynamic CRUD systems, integrating clean UI with powerful backend functionality.
 
-- 🌱 I’m currently learning **MERN Stack**
-- 💬 Ask me about **JavaScript, Python**
-- 📫 How to reach me: **mohdrazamoghul2024@gmail.com**
-- ⚡ **Fun Fact:** I'm a skilled swimmer and can hold my breath underwater for a full minute!
+💻 Open to collaborating on exciting projects and learning new technologies!
+
+## 🚀 Tech Stack:
+PHP | CodeIgniter | JavaScript | Bootstrap | AJAX | MySQL 
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React, Node.js, Django
+- **Programming Languages**: JavaScript, Python, PHP
+- **Frameworks**: React, Node.js, Django, CodeIgniter
 - **Databases**: MySQL, MongoDB, PostgreSQL
-- **Version Control**: Git, GitHub
-- **UI Frameworks**: Bootstrap, Tailwind CSS
+- **Tools**: Git, GitHub, Vite, Webpack
 
 ## 📈 GitHub Stats
-
-![Mohd Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohdRaza216&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohdRaza216&langs_count=5&theme=dracula)
 
@@ -35,16 +32,11 @@ I'm a passionate software developer with a keen interest in web development, mac
 ### [Foodiwheels](https://github.com/MohdRaza216/Foodiwheels)
 A vibrant food-ordering website with features like food descriptions, purchase buttons, and category filters.
 
-### [Emp-Management-App](https://github.com/MohdRaza216/Emp-Management-App)
-A full-stack employee management system with React, Node.js, and MongoDB for seamless CRUD operations.
+### [Dynamic-crud](https://github.com/MohdRaza216/Dynamic-crud)
+Dynamic CRUD is a robust Pickup Order Management System developed using the CodeIgniter 4 framework. This application leverages modern web technologies to provide seamless and efficient management of pickup orders.
 
 ### [TweetBar](https://github.com/MohdRaza216/TweetBar)
 A social media project that allows users to share and interact with posts in real-time.
-
-## 📝 Blog Posts
-
-_(Coming Soon)_  
-I’m currently working on publishing technical blogs. Stay tuned!
 
 ## 🏅 Achievements
 
